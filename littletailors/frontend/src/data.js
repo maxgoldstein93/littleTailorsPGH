@@ -46,7 +46,7 @@ const data ={
             category: "Food",
             image:"/images/dumpling-1.png",
             price: 12.99,
-            rating: 2,
+            rating: 2.5,
             numReviews: 6,
             description: "magically delicious"
         },
