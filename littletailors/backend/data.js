@@ -18,7 +18,6 @@ const data ={
     ],
     products: [
         {
-            _id: "1",
             name: "Chicken Kreplach Dumplings",
             category: "Food",
             image:"/images/dumpling-1.png",
@@ -29,7 +28,6 @@ const data ={
             description: "magically delicious"
         },
         {
-            _id: "2",
             name: "Beef Kreplach Dumplings",
             category: "Food",
             image:"/images/dumpling-1.png",
@@ -40,7 +38,6 @@ const data ={
             description: "magically delicious"
         },
         {
-            _id: "3",
             name: " Brisket Kreplach Dumplings",
             category: "Food",
             image:"/images/dumpling-1.png",
@@ -51,8 +48,7 @@ const data ={
             description: "magically delicious"
         },
         {
-            _id: "4",
-            name: "Chicken Kreplach Dumplings",
+            name: "Duck Kreplach Dumplings",
             category: "Food",
             image:"/images/dumpling-1.png",
             price: 12.99,
@@ -62,7 +58,6 @@ const data ={
             description: "magically delicious"
         },
         {
-            _id: "5",
             name: "Lobster Kreplach Dumplings",
             category: "Food",
             image:"/images/dumpling-1.png",
@@ -73,7 +68,6 @@ const data ={
             description: "magically delicious"
         },
         {
-            _id: "6",
             name: " Mystery Kreplach Dumplings",
             category: "Food",
             image:"/images/dumpling-1.png",
